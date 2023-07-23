@@ -11,8 +11,8 @@
 # Repo
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ambitious-Soul&repo=ShooterEnemyAi-)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ambitious-Soul&repo=Ship-Shooting-Stratagy-Game)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ambitious-Soul&repo=ShooterEnemyAi-)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
@@ -20,7 +20,7 @@
 # Stats
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambitious-Soul&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambitious-Soul&show_icons=true&&bg_color=00000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambitious-Soul&layout=compact)
  
@@ -32,11 +32,13 @@
 # Social
 <br>
 
- <a href="https://chat.openai.com/"><t>
+<a href="https://chat.openai.com/"><t>
+    <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="Button Image" width = "50" hight="50"></t>
+  </a> <t> - </t>  <a href="https://www.linkedin.com/in/ritesh-patil-b17981224/">
     <img src="https://cdn-icons-png.flaticon.com/128/3256/3256013.png" alt="Button Image" width = "50" hight="50"></t>
-  </a> <t> - </t>  <a href="https://chat.openai.com/"><t>
+  </a> <t> - </t>  <a href="https://twitter.com/rpgamedev">
     <img src="https://cdn-icons-png.flaticon.com/128/3955/3955027.png" alt="Button Image" width = "50" hight="50"></t>
-  </a>  <t> - </t> <a href="https://chat.openai.com/"><t>
+  </a>  <t> - </t> <a href="https://www.instagram.com/rpgamedev/">
     <img src="https://cdn-icons-png.flaticon.com/128/2335/2335349.png" alt="Button Image" width = "50" hight="70"></t>
   </a>
 
