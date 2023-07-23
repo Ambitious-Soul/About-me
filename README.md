@@ -1,5 +1,13 @@
 # About-me
 
+<p><li>👋 Hallo, I’m Ritesh</li></p>
+<p><li>🧑🏻‍💻 tech obsessive</li></p>
+<p><li>🪚 Craftsman by code</li></p>
+<p><li>💞️ I’m looking to collaborate on Games & Creating something cool!</li></p>
+<a href="https://chat.openai.com/"><p><li>📫 How to reach me : rpgamedev09@gmail.com</li></p></a>
+
+
+
 # Repo
 
 # Stats
