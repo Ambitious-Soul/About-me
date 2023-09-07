@@ -11,8 +11,8 @@
 # Repo
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ambitious-Soul&repo=Ship-Shooting-Stratagy-Game)](https://github.com/Ambitious-Soul/Ship-Shooting-Stratagy-Game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ambitious-Soul&repo=ShooterEnemyAi-)](https://github.com/Ambitious-Soul/ShooterEnemyAi-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rpgamedev09&repo=Ship-Shooting-Stratagy-Game)](https://github.com/Ambitious-Soul/Ship-Shooting-Stratagy-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rpgamedev09&repo=ShooterEnemyAi-)](https://github.com/Ambitious-Soul/ShooterEnemyAi-)
 
 </br>
 
@@ -20,9 +20,9 @@
 # Stats
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambitious-Soul&show_icons=true&&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpgamedev09&show_icons=true&&bg_color=00000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambitious-Soul&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpgamedev09l&layout=compact)
  
 
 </br>
