@@ -11,8 +11,8 @@
 # Repo
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rpgamedev09&repo=Ship-Shooting-Stratagy-Game)](https://github.com/Ambitious-Soul/Ship-Shooting-Stratagy-Game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rpgamedev09&repo=ShooterEnemyAi-)](https://github.com/Ambitious-Soul/ShooterEnemyAi-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rpgamedev09&repo=Ship-Shooting-Stratagy-Game)](https://github.com/rpgamedev09/Ship-Shooting-Stratagy-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rpgamedev09&repo=ShooterEnemyAi-)](https://github.com/rpgamedev09/ShooterEnemyAi-)
 
 </br>
 
