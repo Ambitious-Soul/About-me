@@ -4,7 +4,7 @@
 <p><li>🧑🏻‍💻 tech obsessive</li></p>
 <p><li>🪚 Craftsman by code</li></p>
 <p><li>💞️ I’m looking to collaborate on Games & Creating something cool!</li></p>
-<p><li>📫 How to reach me : <a href="https://chat.openai.com/"> rpgamedev09@gmail.com</a></li></p>
+<p><li>📫 How to reach me : <a href= "rpgamedev09@gmail.com"> rpgamedev09@gmail.com</a></li></p>
 </br>
 
 
