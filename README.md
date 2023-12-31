@@ -4,7 +4,7 @@
 <p><li>🧑🏻‍💻 tech obsessive</li></p>
 <p><li>🪚 Craftsman by code</li></p>
 <p><li>💞️ I’m looking to collaborate on Games & Creating something cool!</li></p>
-<p><li>📫 How to reach me : <a href="https://mail.google.com/a/umn.edu/#inbox/13f62a30179692eb"> rpgamedev09@gmail.com</a></li></p>
+<p><li>📫 How to reach me : <a href="mailto:rpgamedev09@gmail.com"> rpgamedev09@gmail.com</a></li></p>
 </br>
 
 
