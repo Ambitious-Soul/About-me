@@ -36,8 +36,6 @@
     <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="Button Image" width = "50" hight="50">
   </a> <t> - </t>  <a href="https://twitter.com/rpgamedev">
     <img src="https://cdn-icons-png.flaticon.com/128/3256/3256013.png" alt="Button Image" width = "50" hight="50">
-  </a> <t> - </t>  <a href="https://www.instagram.com/rpgamedev/">
-    <img src="https://cdn-icons-png.flaticon.com/128/3955/3955027.png" alt="Button Image" width = "50" hight="50">
   </a>  <t> - </t> <a href="https://discord.com/users/rpgamedev">
     <img src="https://cdn-icons-png.flaticon.com/128/2335/2335349.png" alt="Button Image" width = "50" hight="70">
   </a>
